@@ -1,0 +1,64 @@
+.bg-card{
+    background-color: white;
+    height: 100vh;
+}
+.img-card{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/conference-img.png");
+    height: 50vh;
+    background-size:500px;
+}
+.txt{
+    color: #184b56;
+    font-size: 30px;
+    font-weight: bolder;
+    width: 300px;
+}
+.pad-left{
+    padding-left: 155px;
+    padding-top: 25px;
+}
+.pad{
+    padding:15px;
+    padding-left:100px;
+}
+.txt1{
+    color:#5a7184 ;
+    width: 290px;
+}
+
+.bg-card-p2{
+    background-color: white;
+    height:100vh;
+}
+.txt-p2{
+    color: #184b56;
+    font-size: 27px;
+    font-weight: bolder;
+ }
+ .pad1-p2{
+    padding-top:30px ;
+ }
+ .txt1-p2{
+    color:#5a7184 ;
+    font-size: 18px;
+ }
+ .pad-l-p2{
+    padding-left: 90px;
+ }
+.div-pad-left1{
+    padding-left: 140px;
+    padding-top:20px;
+}
+.div-pad-left2{
+    padding-left:60px;
+    padding-top:20px;
+}
+
+.div-pad-left3{
+    padding-left:145px;
+    padding-top:20px;
+}
+.div-pad-left4{
+    padding-left:70px;
+    padding-top:20px;
+}

@@ -1,0 +1,21 @@
+.bg-image{
+    background-image: url("https://youthincmag.com/wp-content/uploads/2018/09/Travel-And-Tourism-Sector.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+.card-white{
+    background-color: white;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+
+}
+.pad{
+    padding: 15px;
+}
+.txt{
+    text-align: center;
+}
+
+.bt-pad{
+    padding-left: 235px;
+}

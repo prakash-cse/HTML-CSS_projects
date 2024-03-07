@@ -1,0 +1,37 @@
+.bg-card2{
+    background-color: black;
+    height: 100vh;
+}
+.img-p2{
+    height: 300px;
+}
+.pad-p2{
+    padding: 25px;
+}
+.pad-p2{
+    padding: 8px;
+}
+.bt-p2{
+    background-color: yellow;
+    border-style: none;
+    border-radius: 4px;
+    padding: 6px;
+
+}
+.bt2-p2{
+    background-color: #0e1ce3;
+    border-style: none;
+    border-radius: 4px;
+    padding: 6px;
+    color: white;
+
+}
+.text-p2{
+    color:#81828c ;
+}
+.margin2{
+    margin-left:14px ;
+}
+.t-p2{
+    font-size: 33px;
+}

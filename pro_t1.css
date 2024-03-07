@@ -1,0 +1,30 @@
+.bg-img-t2{
+    background-image: url("https://cdn.wallpapersafari.com/18/1/dl9xtf.jpg");
+    height: 150vh;
+    background-size: cover;
+}
+
+.card-white{
+    background-color: white;
+}
+.txt-t2{
+    font-size: larger;
+    color: orangered;
+}
+.pad-t2{
+    padding: 35px;
+}
+.txt1-t2{
+   
+    color: orangered;
+}
+.bt-t2{
+    background-color: orangered;
+    border-radius:5px;
+    border-style: none;
+    color: white;
+    padding-left: 150px;
+    padding-right: 150px;
+
+    
+}

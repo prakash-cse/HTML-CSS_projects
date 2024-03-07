@@ -1,0 +1,30 @@
+.bg-img-t3{
+    background-image: url("https://s1.1zoom.me/b5050/107/BMW_M2_Coupe_F87Light_482063_3840x2400.jpg");
+    height: 150vh;
+    background-size: cover;
+}
+
+.card-white{
+    background-color: white;
+}
+.txt-t3{
+    font-size: larger;
+    color: skyblue;
+}
+.pad-t3{
+    padding: 35px;
+}
+.txt1-t3{
+   
+    color: skyblue;
+}
+.bt-t3{
+    background-color: skyblue;
+    border-radius:5px;
+    border-style: none;
+    color: white;
+    padding-left: 150px;
+    padding-right: 150px;
+
+    
+}

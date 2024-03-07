@@ -1,0 +1,56 @@
+.f1-card{
+    background-color:#fb4e71;
+    padding:8px;
+}
+
+.f1-txt1{
+    color: white;
+}
+
+.f2-txt1{
+    font-size:medium;
+    font-weight: 700;
+}
+.bg{
+    background-color: #e6f6ff;
+    height: 100vh;
+    padding:20px;
+}
+
+.f2-card{
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+.pad{
+    padding:6px;
+    padding-top: 10px;
+}
+
+.f2-txt2{
+    color:#a0a3a1;
+
+}
+.f2-txt3{
+    font-size: medium;
+    font-weight: 400;
+}
+
+.f3-txt1{
+    font-size:medium;
+    font-weight: 700;
+}
+
+.t{
+    border-style: dashed;
+    border-color: black;
+}
+
+.f3-txt2{
+    font-size: 14px;
+}
+
+.pad2{
+    padding-left: 190px;
+    padding-top: 30px;
+}

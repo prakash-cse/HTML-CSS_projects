@@ -1,0 +1,30 @@
+.bg-img-t4{
+    background-image: url("https://e0.pxfuel.com/wallpapers/605/836/desktop-wallpaper-red-classic-porsche.jpg");
+    height: 150vh;
+    background-size: cover;
+}
+
+.card-white{
+    background-color: white;
+}
+.txt-t4{
+    font-size: larger;
+    color: red;
+}
+.pad-t4{
+    padding: 35px;
+}
+.txt1-t4{
+   
+    color: red;
+}
+.bt-t4{
+    background-color: red;
+    border-radius:5px;
+    border-style: none;
+    color: white;
+    padding-left: 150px;
+    padding-right: 150px;
+
+    
+}

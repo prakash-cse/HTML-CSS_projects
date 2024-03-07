@@ -1,0 +1,248 @@
+.card_bg_img{
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/2015_Chevrolet_Corvette_Z06_in_Velocity_Yellow%2C_Front_Right%2C_08-06-2022.jpg/1200px-2015_Chevrolet_Corvette_Z06_in_Velocity_Yellow%2C_Front_Right%2C_08-06-2022.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+.card_bg{
+    background-image: url("https://wallpaperaccess.com/full/562182.jpg");
+    background-size: cover;
+    border-radius: 10px;
+}
+.pad{
+    padding: 40px;
+   
+}
+.pad1{
+    padding-bottom: 15px;
+}
+
+.pad2{
+    padding: 15px;
+}
+.txt{
+    color:white;
+    font-weight: 625;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.txt1{
+    color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+
+.bg-image{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrXJ2KHhaIrzbLGGpi4dyRdlsjMp5KQZZ2QA7C3HeFESqHLc7PPisI42A1BJY0jh3Nn44&usqp=CAU");
+    height: 210vh;
+    background-size: cover;
+}
+.white-card{
+    border-radius:8px; 
+}
+.h-txt{
+    color: white;
+    
+}
+.pad-s1{
+    padding: 20px;
+}
+.img1{
+    height: 120px;
+    width: 170px;
+    border-radius:8px;
+    
+}
+.h0-txt{
+    color: orangered;
+}
+.h1-txt{
+    color: red;
+}
+
+.h2-txt{
+    color: grey;
+
+}
+.h3-txt{
+    color: skyblue;
+
+}
+.h4-txt{
+    color: yellowgreen;
+
+}
+
+
+
+
+
+.bg-img{
+    background-image: url("https://i0.wp.com/www.car-revs-daily.com/wp-content/uploads/2015/05/2016-Chevrolet-Corvette-Z06-C7_4s.jpg?fit=2300%2C1316&ssl=1");
+    height: 150vh;
+    background-size: cover;
+}
+
+.card-white{
+    background-color: white;
+}
+.txt-t1{
+    font-size: larger;
+    color: yellowgreen;
+}
+.pad-t1{
+    padding: 35px;
+}
+.txt-t01{
+   
+    color: yellowgreen;
+}
+.bt{
+    background-color: yellowgreen;
+    border-radius:5px;
+    border-style: none;
+    color: white;
+    padding-left: 150px;
+    padding-right: 150px;
+
+    
+}
+
+
+
+
+
+
+.bg-img-t2{
+    background-image: url("https://cdn.wallpapersafari.com/18/1/dl9xtf.jpg");
+    height: 150vh;
+    background-size: cover;
+}
+
+.card-white{
+    background-color: white;
+}
+.txt-t2{
+    font-size: larger;
+    color: orangered;
+}
+.pad-t2{
+    padding: 35px;
+}
+.txt1-t2{
+   
+    color: orangered;
+}
+.bt-t2{
+    background-color: orangered;
+    border-radius:5px;
+    border-style: none;
+    color: white;
+    padding-left: 150px;
+    padding-right: 150px;
+
+    
+}
+
+
+
+
+.bg-img-t3{
+    background-image: url("https://s1.1zoom.me/b5050/107/BMW_M2_Coupe_F87Light_482063_3840x2400.jpg");
+    height: 150vh;
+    background-size: cover;
+}
+
+.card-white{
+    background-color: white;
+}
+.txt-t3{
+    font-size: larger;
+    color: skyblue;
+}
+.pad-t3{
+    padding: 35px;
+}
+.txt1-t3{
+   
+    color: skyblue;
+}
+.bt-t3{
+    background-color: skyblue;
+    border-radius:5px;
+    border-style: none;
+    color: white;
+    padding-left: 150px;
+    padding-right: 150px;
+
+    
+}
+
+
+
+
+
+.bg-img-t4{
+    background-image: url("https://e0.pxfuel.com/wallpapers/605/836/desktop-wallpaper-red-classic-porsche.jpg");
+    height: 150vh;
+    background-size: cover;
+}
+
+.card-white{
+    background-color: white;
+}
+.txt-t4{
+    font-size: larger;
+    color: red;
+}
+.pad-t4{
+    padding: 35px;
+}
+.txt1-t4{
+   
+    color: red;
+}
+.bt-t4{
+    background-color: red;
+    border-radius:5px;
+    border-style: none;
+    color: white;
+    padding-left: 150px;
+    padding-right: 150px;
+
+    
+}
+
+
+
+
+.bg-img-t5{
+    background-image: url("https://images.caricos.com/j/jaguar/2021_jaguar_f-type/images/2560x1440/2021_jaguar_f-type_162_2560x1440.jpg");
+    height: 150vh;
+    background-size: cover;
+}
+
+.card-white{
+    background-color: white;
+}
+.txt-t5{
+    font-size: larger;
+    color: grey;
+}
+.pad-t5{
+    padding: 35px;
+}
+.txt1-t5{
+   
+    color: grey;
+}
+.bt-t5{
+    background-color: grey;
+    border-radius:5px;
+    border-style: none;
+    color: white;
+    padding-left: 150px;
+    padding-right: 150px;
+
+    
+}

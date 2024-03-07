@@ -1,0 +1,31 @@
+.bg-img{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/orange-color-bg.png");
+    height:140vh;
+    background-size:cover;
+}
+.pad{
+    padding:70px;
+}
+.bt{
+    background-color: white;
+    color:orange;
+    border-style: none;
+    padding: 10px;
+    border-radius:10px;
+}
+.pad-left{
+    padding-left: 80px;
+    padding-top: 10px;
+}
+.txt{
+    color:white;
+}
+.padp{
+    padding:6px;
+}
+.pad-l{
+    padding-left:10px;
+}
+.img{
+width: 120px;
+}

@@ -1,0 +1,28 @@
+.bg-card{
+    background-color: white;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    padding: 30px;
+    
+}
+.text1{
+    color:#7b8794;
+    font-family:Roboto;
+}
+
+.text2{
+    color:#323f4b;
+    font-family:Roboto;
+    font-weight: bold;
+}
+.bt{
+    color: white;
+    background-color: #363c45;
+    border-radius:8px;
+    padding: 5px;
+}
+.bg-img{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    height: 100vh;
+    background-size: cover;
+}

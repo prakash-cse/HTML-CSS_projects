@@ -1,0 +1,37 @@
+.bg-card{
+    background-color: #894bca;
+    height: 100vh;
+}
+.img{
+    height: 200px;
+}
+.pad{
+    padding:20px;
+    
+}
+.white-card{
+    background-color:#ffffff ;
+    height: 100vh;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.txt{
+    color: #f780c3;
+    font-size: 30px;
+}
+.txt1{
+    font-size: 60px;
+}
+.img1{
+    height:65px;
+
+}
+.pad-left{
+    padding-left:35px;
+    
+    
+}
+.pad-con{
+    
+    padding: 30px;
+}

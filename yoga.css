@@ -1,0 +1,90 @@
+.bg-card{
+    background-image: url("https://assets.ccbp.in/frontend/static-website/yoga-bg.png");
+    background-size: cover;
+    height:140vh;
+}
+.txt1{
+    color:#132d84;
+    font-size: 30px;
+    font-weight: bold;
+    width: 350px;
+}
+.pad{
+    padding: 50px;
+    padding-left:90px;
+}
+.img{
+    height: 370px;
+}
+.img-pad{
+    padding-top: 110px;
+}
+.txt2{
+    color:#323f4b;
+    font-weight: 600;
+    width: 360px;
+    font-size: larger;
+}
+.pad-left{
+    padding-left: 70px;
+}
+.bt{
+    color: #fad693;
+    background-color:#253263 ;
+    border-style: none;
+    padding: 5px;
+    border-radius: 4px;
+}
+
+.bg-card-p2{
+    background-color: #ffedcb;
+    height: 200vh;
+}
+.img-p2{
+    height:250px;
+}
+.b{
+    padding-top: 60px;
+    padding-left:115px;
+}
+.txt1-p2{
+    font-size: 30px;
+    color: #132d84;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.bg1-p2{
+    background-color:#ffe2ab;
+    border-radius: 10px;
+}
+.img2-p2{
+    height: 100px;
+}
+.txt2-p2{
+    color:#253263 ;
+    font-size:19px;
+}
+.txt3-p2{
+    color: #253263;
+    font-weight: 500;
+}
+.pad1-p2{
+    padding:10px;
+}
+.pad-card{
+    padding: 25px;
+    padding-bottom:3px ;
+}
+.bt1-p2{
+    color:white;
+    background-color:#253263 ;
+    border-style: none;
+    padding-left: 25px;
+    border-radius: 4px;
+    padding-right: 25px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+.pad-bt{
+    padding-top: 20px;
+}

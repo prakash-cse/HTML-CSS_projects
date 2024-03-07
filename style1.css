@@ -1,0 +1,24 @@
+.box{
+    background-color:#f6c56e;
+    padding: 13px;;
+    border-top-left-radius:25px;
+    border-top-right-radius:25px;
+}
+
+.text{
+    color:#323f4b;
+    font-family: Bree Serif;
+}
+
+.bi{
+    background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
+    background-size:cover;
+    height:100vh;
+}
+
+.bt{
+    border-radius: 10px;
+    border-style: none;
+    padding: 12px;
+    
+}

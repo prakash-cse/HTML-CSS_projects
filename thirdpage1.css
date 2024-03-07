@@ -1,0 +1,18 @@
+.bg-img{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/004/838/621/non_2x/blurred-sky-blur-or-azure-sky-and-white-cloud-background-beautiful-nature-on-summer-cloudscape-background-free-photo.jpg");
+    height: 150vh;
+    background-size: cover;
+}
+
+.card-white{
+    background-color: white;
+}
+.txt{
+    font-size: larger;
+}
+.pad{
+    padding: 15px;
+}
+.pad-bt{
+    padding-left: 200px;
+}

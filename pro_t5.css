@@ -1,0 +1,30 @@
+.bg-img{
+    background-image: url("https://i0.wp.com/www.car-revs-daily.com/wp-content/uploads/2015/05/2016-Chevrolet-Corvette-Z06-C7_4s.jpg?fit=2300%2C1316&ssl=1");
+    height: 150vh;
+    background-size: cover;
+}
+
+.card-white{
+    background-color: white;
+}
+.txt{
+    font-size: larger;
+    color: yellowgreen;
+}
+.pad{
+    padding: 35px;
+}
+.txt1{
+   
+    color: yellowgreen;
+}
+.bt{
+    background-color: yellowgreen;
+    border-radius:5px;
+    border-style: none;
+    color: white;
+    padding-left: 150px;
+    padding-right: 150px;
+
+    
+}

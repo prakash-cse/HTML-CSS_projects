@@ -1,0 +1,124 @@
+.img-bg{
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    height:100vh;
+    background-size: cover;
+}
+.white-card{
+    background-color: white;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+.txt1{
+    color:#f19116;
+}
+.txt2{
+    color: #7b8794;
+}
+.bt{
+    background-color: #f19116;
+    color:white;
+    border-style: none;
+    border-radius:4px;
+    padding: 7px;
+}
+.pad{
+    padding: 70px;
+}
+
+
+.bg-card-p2{
+    background-color:#222222 ;
+    height: 150vh;
+    background-size: cover;
+}
+.white-card1-p2{
+    background-color: white;
+    border-radius: 10px;
+}
+.txt1-p2{
+    color: #f19116;
+    font-family:Bree Serif;
+}
+.img-p2{
+    height:180px;
+    width: 110px;
+}
+.pad-p2{
+    padding: 10px;
+}
+.text2-p2{
+    font-family: Bree Serif;
+    color:#0f0e46;
+    font-weight: 550;
+}
+.text3-p2{
+    font-family: Bree Serif;
+    color:#7b8794;
+}
+.padtop-p2{
+    padding-top: 16px;
+}
+.bt-p2{
+    background-color: #f19116;
+    color:white;
+    border-style: none;
+    border-radius:4px;
+    padding-top: 6px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 6px;
+}
+.pad-bt-p2{
+    padding-top: 30px;
+}
+
+
+
+.bg-card-p3{
+    background-color: #222222;
+    height: 100vh;
+    background-size: cover;
+}
+.txt1-p3{
+    color: #f19116;
+    padding-bottom: 10px;
+}
+.white-bar-p3{
+    background-color: white;
+    height: 3px;
+}
+.txt2-p3{
+    color:#f19116;
+    padding-top:20px ;
+}
+.img-p3{
+    height: 310px;
+}
+.txt3-p3{
+    color:white ;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-top: 5px;
+}
+.img2-p3{
+    height: 25px;
+}
+.pad-p3{
+    padding: 20px;
+}
+.txt4-p3{
+    color: white;
+}
+.bt-p3{
+    background-color: #f19116;
+    color:white;
+    border-style: none;
+    border-radius:4px;
+    padding-top: 6px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 6px;
+}
+.padleft-p3{
+    padding-left: 20px;
+}

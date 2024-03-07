@@ -1,0 +1,38 @@
+.bg1{
+    background-color:#fdba74;
+    height: 200px;
+    width:260px;
+}
+
+.bg2{
+    background-color: #ea580c;
+    height: 200px;
+    width:260px;
+}
+
+.bg3{
+    background-color:#a5b4fc;
+    height: 200px;
+    width:260px;
+}
+.bg4{
+    background-color: #4f46e5;
+    height: 200px;
+    width:260px;
+} 
+
+.bg5{
+    background-color:#5eead4;
+    height: 200px;
+    width:260px;
+} 
+
+.bg6{
+    background-color:#0d9488;
+    height: 200px;
+    width:260px;
+}
+
+.pad{
+    padding-bottom: -10px;
+}

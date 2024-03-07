@@ -1,0 +1,38 @@
+.bg-card{
+    background-image: url("https://assets.ccbp.in/frontend/static-website/foundations-bg.png");
+    background-size: cover;
+    height:100vh;
+}
+.white-card{
+    background-color: white;
+    height:450px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.pad{
+    padding: 30px;
+}
+.border{
+    border-style: dashed;
+    padding: 20px;
+    border-radius: 10px;
+    width:145px;
+    
+    
+}
+.img{
+    height: 50px;
+}
+
+.txt{
+    font-size: medium;
+}
+.pad1{
+    padding: 10px;
+}
+.pad-left{
+    padding-left: 60px;
+}
+.pad-top{
+    padding-top: 30px;
+}

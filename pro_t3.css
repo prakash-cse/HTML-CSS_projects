@@ -1,0 +1,30 @@
+.bg-img-t5{
+    background-image: url("https://images.caricos.com/j/jaguar/2021_jaguar_f-type/images/2560x1440/2021_jaguar_f-type_162_2560x1440.jpg");
+    height: 150vh;
+    background-size: cover;
+}
+
+.card-white{
+    background-color: white;
+}
+.txt-t5{
+    font-size: larger;
+    color: grey;
+}
+.pad-t5{
+    padding: 35px;
+}
+.txt1-t5{
+   
+    color: grey;
+}
+.bt-t5{
+    background-color: grey;
+    border-radius:5px;
+    border-style: none;
+    color: white;
+    padding-left: 150px;
+    padding-right: 150px;
+
+    
+}

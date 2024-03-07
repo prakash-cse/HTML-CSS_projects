@@ -1,0 +1,37 @@
+.bg-card3{
+    background-color: black;
+    height: 100vh;
+}
+.img-p3{
+    height: 300px;
+}
+.pad-p3{
+    padding: 25px;
+}
+.pad-p3{
+    padding: 8px;
+}
+.bt-p3{
+    background-color: yellow;
+    border-style: none;
+    border-radius: 4px;
+    padding: 6px;
+
+}
+.bt2-p3{
+    background-color: #0e1ce3;
+    border-style: none;
+    border-radius: 4px;
+    padding: 6px;
+    color: white;
+
+}
+.text-p3{
+    color:#81828c ;
+}
+.margin3{
+    margin-left:14px ;
+}
+.t-p3{
+    font-size: 33px;
+}

@@ -1,0 +1,22 @@
+.bg-image{
+    background-image: url("https://webunwto.s3.eu-west-1.amazonaws.com/2020-10/statistics-day-page.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+.white-card{
+    background-color: white;
+}
+.h-txt{
+    color: white;
+}
+.pad{
+    padding: 10px;
+}
+.img1{
+    height: 80px;
+    width: 90px;
+    border-radius: 10px;
+}
+.border{
+    border-radius: 10px;
+}

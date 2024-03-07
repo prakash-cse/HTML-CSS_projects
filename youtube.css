@@ -1,0 +1,10 @@
+.vid{
+    height: 1000px;
+    width: 200px;
+
+}
+.img{
+   background-image: url("https://asset.cloudinary.com/dhxwm0f6l/b31b17ddd9d54511828db83a40aa3517");
+   width: 100vh;
+   height: 100vh;
+}

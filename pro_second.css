@@ -1,0 +1,41 @@
+.bg-image{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrXJ2KHhaIrzbLGGpi4dyRdlsjMp5KQZZ2QA7C3HeFESqHLc7PPisI42A1BJY0jh3Nn44&usqp=CAU");
+    height: 210vh;
+    background-size: cover;
+}
+.white-card{
+    border-radius:8px; 
+}
+.h-txt{
+    color: white;
+    
+}
+.pad{
+    padding: 20px;
+}
+.img1{
+    height: 120px;
+    width: 170px;
+    border-radius:8px;
+    
+}
+.h0-txt{
+    color: orangered;
+}
+.h1-txt{
+    color: red;
+}
+
+.h2-txt{
+    color: grey;
+
+}
+.h3-txt{
+    color: skyblue;
+
+}
+.h4-txt{
+    color: yellowgreen;
+
+}
+
